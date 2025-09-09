@@ -1,5 +1,7 @@
 # Summary
 
+- [소개 (About)](index.md)
+
 ## Part 1. 클라우드 인프라 자동화와 CI/CD
 - [01주차: 인프라 자동화 개요](part1/01_intro.md)
 - [02주차: Terraform 기본](part1/02_terraform_basics.md)
