@@ -1,6 +1,6 @@
 
 
-# 7주차 실습 가이드 – Ansible 기초
+# 7주차 실습 가이드 – Ansible 기초ㅗ
 
 (Inventory, Playbook, Role 구조)
 
