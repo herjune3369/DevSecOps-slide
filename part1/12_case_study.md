@@ -1,4 +1,4 @@
-# 📝 12주차 실습 가이드 – GitHub Actions + Terraform Output → Ansible 자동 전달
+#  12주차 실습 가이드 – GitHub Actions + Terraform Output → Ansible 자동 전달
 
 ---
 

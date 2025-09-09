@@ -1,5 +1,5 @@
 
-# 📝 10주차 실습 가이드 – GitHub Actions 기본 구조 (Workflow, Event, Job, Step)
+#  10주차 실습 가이드 – GitHub Actions 기본 구조 (Workflow, Event, Job, Step)
 
 ---
 

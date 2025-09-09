@@ -1,5 +1,5 @@
 
-# 📝 5주차 실습 가이드 – Mini Project ②
+# 5주차 실습 가이드 – Mini Project ②
 
 Terraform으로 AI 사주 앱 배포
 

@@ -1,4 +1,4 @@
-# 📝 2주차 실습 가이드– VPC, Subnet, EC2, Security Group
+#  2주차 실습 가이드– VPC, Subnet, EC2, Security Group
 
 ## 🎯 실습 목표
 

@@ -1,5 +1,5 @@
 
-# 📝 13주차 실습 가이드 – GitHub Actions + Terraform + Ansible → CI/CD 자동화
+#  13주차 실습 가이드 – GitHub Actions + Terraform + Ansible → CI/CD 자동화
 
 ---
 

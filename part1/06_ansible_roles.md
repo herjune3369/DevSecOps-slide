@@ -46,7 +46,7 @@
 
 ---
 
-# 📝 6주차 실습 가이드 – Ansible 기초 (Inventory, Playbook, Role)
+#  6주차 실습 가이드 – Ansible 기초 (Inventory, Playbook, Role)
 
 ## 🎯 실습 목표
 

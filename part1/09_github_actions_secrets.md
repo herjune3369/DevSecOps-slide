@@ -1,5 +1,5 @@
 
-# 📝 9주차 실습 가이드 – Ansible로 Flask + DB 자동 배포
+# 9주차 실습 가이드 – Ansible로 Flask + DB 자동 배포
 
 ---
 
